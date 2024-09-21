@@ -1,0 +1,38 @@
+/*  hk-grotesk font*/
+@font-face {
+    font-family: "hk-grotesk";
+    src: url("./hk-grotesk/HKGrotesk-Medium.otf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "hk-grotesk";
+    src: url("./hk-grotesk/HKGrotesk-SemiBold.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "hk-grotesk";
+    src: url("./hk-grotesk/HKGrotesk-Bold.otf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "hk-grotesk";
+    src: url("../fonts/hk-grotesk/HKGrotesk-ExtraBold.otf");
+    font-weight: 800;
+}
+
+
+/*  product-sans font*/
+@font-face {
+    font-family: "Product Sans";
+    src: url("../fonts/product-sans/Product\ Sans\ Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Product Sans";
+    src: url("./product-sans/Product\ Sans\ Bold.ttf");
+    font-weight: 700;
+}
